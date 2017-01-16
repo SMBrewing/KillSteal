@@ -19,11 +19,33 @@ Players had different weapons (Sword, Magic, Crossbow, Telescope?)
 And at some point we got attacked by a minon in a tank who told us not to take the creator's mouse
 
 
-
+----------------------------------------------------
 
 Real Game
+Names:
 Landing Blow for game name??
-Kill Steal
+Critical Failure
+--Kill Steal--
+
+Strategies:
+1) Just dick over your whole team, the whole time
+2) Work together at first, then just dick over everyone on your team.
+3) Figure out the best attacks and when to execute
+
+Ideas:
+-Needs to balance chance with stretgy
+-Whoever gets the last hit, gets the victory. Everyone else gets nothing.
+-Bosses should be hard, even for people working together.
+-When you die, it depends on your current standing position (Ties mean that both levels will go to the player. For Example: A Two-Way tie for First will get the affects of both First and Second place, while the next player will get the affects of third place):
+First Place) Lose half of your collected souls (Victory Points) (rounded down), or whatever puts you in last place (least of the two). Comes back Half-Health.
+Second Place) Lose half of the cards in your hand. Comes back at Half-Health.
+Third Place) 
+Fourth Place) Trade Character and Cards with another player. Comes back at full health.
+-When you die, you remain out for a full round, and come back at the start of your next turn. No actions can be performed on you until you come back to life.
+-If full party is wiped out, then everyone loses.
 
 Card Ideas
 -Stumble: Player has a granteed critial failure
+-Invunerbility: Can be used on any creature (includes boss, player, or self), that creature cannot be attacked nor can they attack for one full round
+-Throwing Dagger: Does 1 Damage to Boss (Play anytime)
+-And Stay Dead: Keep an ally dead for another full turn. Only works on players who currently have more souls than you.
