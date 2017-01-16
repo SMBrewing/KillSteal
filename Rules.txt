@@ -32,10 +32,20 @@ Strategies:
 2) Work together at first, then just dick over everyone on your team.
 3) Figure out the best attacks and when to execute
 
+Plot?:
+-You have soul capturing weapons, and are trying to collect the most souls.
+
+Terms:
+Souls: Number of boss monsters you have killed
+Cards: Either Special abilities or scroll you carry with you
+
+
 Ideas:
 -Needs to balance chance with stretgy
 -Whoever gets the last hit, gets the victory. Everyone else gets nothing.
 -Bosses should be hard, even for people working together.
+
+-Dying-
 -When you die, it depends on your current standing position (Ties mean that both levels will go to the player. For Example: A Two-Way tie for First will get the affects of both First and Second place, while the next player will get the affects of third place):
 First Place) Lose half of your collected souls (Victory Points) (rounded down), or whatever puts you in last place (least of the two). Comes back Half-Health.
 Second Place) Lose half of the cards in your hand. Comes back at Half-Health.
@@ -45,6 +55,7 @@ Fourth Place) Trade Character and Cards with another player. Comes back at full 
 -If full party is wiped out, then everyone loses.
 
 Card Ideas
+Two types of cards, player specific and global cards.
 -Stumble: Player has a granteed critial failure
 -Invunerbility: Can be used on any creature (includes boss, player, or self), that creature cannot be attacked nor can they attack for one full round
 -Throwing Dagger: Does 1 Damage to Boss (Play anytime)
