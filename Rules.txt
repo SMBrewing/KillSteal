@@ -84,11 +84,13 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 
 --Wizard--
 -Action (Use during your turn):
--Fireball: Attack enemy, 3 or above for success (2/3) [Roll 1 attacks random target], 1d6 damage (1 to 6, Avg: 3.5)
+--Fireball: Attack enemy, 3 or above for success (2/3) [Roll 1 attacks random target], 1d6 damage (1 to 6, Avg: 3.5)
 -Special Action (Use once per a fight during your turn):
+--Monster Mash: Choose an ally to recieve all attacks for the current round. That ally can then choose to attack you or the monster for rest of fight. If they kil you, they get one soul card from your collected souls.
 -Turn to Iron: Use on anyone. They are immune to damage next round, but cannot attack.
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
+--Power of Suggestion: Choose who the active player attacks
 
 --Barbarian--
 -Action (Use during your turn):
@@ -100,6 +102,7 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 
 --Fighter--
 -Action (Use during your turn):
+--Shield Bash: Recieve half-damage for next round
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
@@ -110,6 +113,8 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
+--Dodge: Avoid damage from an attack
+--Sneak Attack: Attack a monster immediately after someone attacked said monster
 
 --Bard--
 -Action (Use during your turn):
