@@ -105,8 +105,7 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 -Turn to Iron: Use on anyone. They are immune to damage next round, but cannot attack.
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
---Power of Suggestion: Choose who the active player attacks
---Power of Suggestion: Choose the active player's action (Cannot use special actions)
+--Power of Suggestion: Choose the active player's action and target (Cannot use special actions)
 
 --Barbarian--
 -Action (Use during your turn):
