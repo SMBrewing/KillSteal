@@ -74,8 +74,23 @@ Two types of cards, player specific and global cards.
 --Cleric:--
 If you healed someone last turn, you can go for their turn, next turn. (You don't get two turns, you can change your position in the turn order)(Includes boss monsters)
 -Action (Use during your turn):
--- Heal: Heal anyone, 3 or above for success (2/3), 1d6 heal (1 to 6, Avg: 3.5).
+-- Heal: Heal anyone
+--- 1, damage target and self by 1d6 (1 to 6, Avg: 3.5) 
+---- If target is self, take 1d6 + 3 damage (4 to 9, Avg: 6.5)
+--- 2, damage target by 1d6 (1 to 6, Avg: 3.5)
+--- 3, heal target by 1d6 (1 to 6, Avg: 3.5)
+--- 4, heal target by 1d6 + 1 (2 to 7, Avg: 4.5)
+--- 5, heal target by 1d6 + 2 (3 to 8, Avg: 5.5)
+--- 6, heal target and self by 1d6 + 3 (14 to 9, Avg: 6.5)
+--- Total (Target: -9 to 6, Avg: -2.25, Self -9 to 6, Avg: -0.5, Target Self: -9 to 9, Avg: -1.67)
 -- Dagger: Attack enemy, 3 or above for success (2/3), 1d6 - 2 damage (-1 to 4, Avg: 1.5).
+--- 1, damage self 1d6 (1 to 6, Avg: 3.5)
+--- 2, damage random target 1d6 - 2 (-1 to 4, Avg: 1.5)
+--- 3, heal target 1d6 - 2 (-1 to 4, Avg: 1.5)
+--- 4, damage target 1d6 - 2 (-1 to 4, Avg: 1.5)
+--- 5, damage target 1d6 (1 to 6, Avg: 3.5)
+--- 6, damage target 1d6 + 2 (3 to 8, Avg: 5.5)
+--- Total (Target: -4 to 8, Avg: 1.54 to 1.63, Self -1 to 6, Avg: 0.63 to 0.7, Random Target: -1 to 4, Avg: 0.04 to 0.08)
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
@@ -84,7 +99,7 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 
 --Wizard--
 -Action (Use during your turn):
---Fireball: Attack enemy, 3 or above for success (2/3) [Roll 1 attacks random target], 1d6 damage (1 to 6, Avg: 3.5)
+--Magic Missle: Attack enemy, 3 or above for success (2/3) [Roll 1 attacks self, Roll 2 attacks random target], 1d6 damage (1 to 6, Avg: 3.5)
 -Special Action (Use once per a fight during your turn):
 --Monster Mash: Choose an ally to recieve all attacks for the current round. That ally can then choose to attack you or the monster for rest of fight. If they kil you, they get one soul card from your collected souls.
 -Turn to Iron: Use on anyone. They are immune to damage next round, but cannot attack.
@@ -121,3 +136,5 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
+-- Depressing Song: Turn any action roll into a 1
+-- Motivational Speech: Turn any action roll into a 6
