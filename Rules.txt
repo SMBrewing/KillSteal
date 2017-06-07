@@ -72,25 +72,25 @@ Two types of cards, player specific and global cards.
 - Health: 20
 
 --Cleric:--
-If you healed someone last turn, you can go for their turn, next turn. (You don't get two turns, you can change your position in the turn order)(Includes boss monsters)
+Advantage: Attacks will never damage self (unless self is target)
+Disadvantage: Attacks are weak
 -Action (Use during your turn):
 -- Heal
---- 1, damage target and self by 1d6 (1 to 6, Avg: 3.5) 
----- If target is self, take 1d6 + 3 damage (4 to 9, Avg: 6.5)
---- 2, damage target by 1d6 (1 to 6, Avg: 3.5)
---- 3, heal target by 1d6 (1 to 6, Avg: 3.5)
---- 4, heal target by 1d6 + 1 (2 to 7, Avg: 4.5)
---- 5, heal target by 1d6 + 2 (3 to 8, Avg: 5.5)
---- 6, heal target and self by 1d6 + 3 (14 to 9, Avg: 6.5)
---- Total (Target: -9 to 6, Avg: -2.25, Self -9 to 6, Avg: -0.5, Target Self: -9 to 9, Avg: -1.67)
--- Paddle
---- 1, damage self 1d6 (1 to 6, Avg: 3.5)
---- 2, damage random target 1d6 - 2 (-1 to 4, Avg: 1.5)
+--- 1, heal target 1d6 - 6 (-5 to 0, Avg: -2.5)
+--- 2, heal target 1d6 - 4 (-3 to 2, Avg: -0.5)
 --- 3, heal target 1d6 - 2 (-1 to 4, Avg: 1.5)
---- 4, damage target 1d6 - 2 (-1 to 4, Avg: 1.5)
---- 5, damage target 1d6 (1 to 6, Avg: 3.5)
---- 6, damage target 1d6 + 2 (3 to 8, Avg: 5.5)
---- Total (Target: -4 to 8, Avg: 1.54 to 1.63, Self -1 to 6, Avg: 0.63 to 0.7, Random Target: -1 to 4, Avg: 0.04 to 0.08)
+--- 4, heal target 1d6 (1 to 6, Avg: 3.5)
+--- 5, heal target 1d6 + 2 (3 to 8, Avg: 5.5)
+--- 6, heal target 1d6 + 4 (5 to 10, Avg: 7.5)
+--- Total (Target: -10 to 5, Avg: -2.5)
+-- Paddle
+--- 1, damage target 1d6 - 6 (-5 to 0, Avg: -2.5)
+--- 2, damage target 1d6 - 4 (-3 to 2, Avg: -0.5)
+--- 3, damage target 1d6 - 2 (-1 to 4, Avg: 1.5)
+--- 4, damage target 1d6 (1 to 6, Avg: 3.5)
+--- 5, damage target 1d6 + 2 (3 to 8, Avg: 5.5)
+--- 6, damage target 1d6 + 4 (5 to 10, Avg: 7.5)
+--- Total (Target: -5 to 10, Avg: 2.5)
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
@@ -98,8 +98,13 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 -- I'm the healer: Have another player take your damage.
 
 --Wizard--
+Advantage: Attacks are consistent
+Disadvantage: Attacks are weak
 -Action (Use during your turn):
---Magic Missle: Attack enemy, 3 or above for success (2/3) [Roll 1 attacks self, Roll 2 attacks random target], 1d6 damage (1 to 6, Avg: 3.5)
+--Magic Missle
+--- 1, damage self 1d6 (1 to 6, Avg: 3.5)
+--- 2, damage random target 1d6 (1 to 6, Avg: 3.5)
+: Attack enemy, 3 or above for success (2/3) [Roll 1 attacks self, Roll 2 attacks random target], 1d6 damage (1 to 6, Avg: 3.5)
 -Special Action (Use once per a fight during your turn):
 --Monster Mash: Choose an ally to recieve all attacks for the current round. That ally can then choose to attack you or the monster for rest of fight. If they kil you, they get one soul card from your collected souls.
 -Turn to Iron: Use on anyone. They are immune to damage next round, but cannot attack.
@@ -108,6 +113,8 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 --Power of Suggestion: Choose the active player's action and target (Cannot use special actions)
 
 --Barbarian--
+Advantage: Attacks are strong
+Disadvantage: High Chance of miss, High chance of hurting self
 -Action (Use during your turn):
 -- Hammer: Attack enemy, 3 or above for success (2/3) [4 or above if enraged (1/2)], 1d6 damage (1 to 6, Avg: 3.5) [2d6 damage if enraged (2 to 12, Avg: 7)] [1d6 damage - 2 if rage-withdrawn (-1 to 4, Avg: 1.5)]
 -- Recover: Recover's your rage
@@ -117,6 +124,8 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 -Special Ability (Use once per a fight, Anytime):
 
 --Fighter--
+Advantage: Gets special actions which give advantage, can block
+Disadvantage: Special attacks are costly
 -Action (Use during your turn):
 --Shield Bash: Recieve half-damage for next round
 -Special Action (Use once per a fight during your turn):
@@ -125,6 +134,8 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 -- Double Time: Get two actions on your next turn
 
 --Rogue--
+Advantage: Gets special actions which give advantage, can dodge
+Disadvantage: Special attacks are costly
 -Action (Use during your turn):
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
@@ -133,6 +144,8 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 --Sneak Attack: Attack a monster immediately after someone attacked said monster
 
 --Bard--
+Advantage: Can control the fight
+Disadvantage: Attacks are weak
 -Action (Use during your turn):
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
