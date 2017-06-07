@@ -74,7 +74,7 @@ Two types of cards, player specific and global cards.
 --Cleric:--
 If you healed someone last turn, you can go for their turn, next turn. (You don't get two turns, you can change your position in the turn order)(Includes boss monsters)
 -Action (Use during your turn):
--- Heal: Heal anyone
+-- Heal
 --- 1, damage target and self by 1d6 (1 to 6, Avg: 3.5) 
 ---- If target is self, take 1d6 + 3 damage (4 to 9, Avg: 6.5)
 --- 2, damage target by 1d6 (1 to 6, Avg: 3.5)
@@ -83,7 +83,7 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 --- 5, heal target by 1d6 + 2 (3 to 8, Avg: 5.5)
 --- 6, heal target and self by 1d6 + 3 (14 to 9, Avg: 6.5)
 --- Total (Target: -9 to 6, Avg: -2.25, Self -9 to 6, Avg: -0.5, Target Self: -9 to 9, Avg: -1.67)
--- Dagger: Attack enemy, 3 or above for success (2/3), 1d6 - 2 damage (-1 to 4, Avg: 1.5).
+-- Dagger
 --- 1, damage self 1d6 (1 to 6, Avg: 3.5)
 --- 2, damage random target 1d6 - 2 (-1 to 4, Avg: 1.5)
 --- 3, heal target 1d6 - 2 (-1 to 4, Avg: 1.5)
