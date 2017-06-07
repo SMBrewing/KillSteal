@@ -106,10 +106,12 @@ If you healed someone last turn, you can go for their turn, next turn. (You don'
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
 --Power of Suggestion: Choose who the active player attacks
+--Power of Suggestion: Choose the active player's action (Cannot use special actions)
 
 --Barbarian--
 -Action (Use during your turn):
 -- Hammer: Attack enemy, 3 or above for success (2/3) [4 or above if enraged (1/2)], 1d6 damage (1 to 6, Avg: 3.5) [2d6 damage if enraged (2 to 12, Avg: 7)] [1d6 damage - 2 if rage-withdrawn (-1 to 4, Avg: 1.5)]
+-- Recover: Recover's your rage
 -Special Action (Use once per a fight during your turn):
 -- Rage: Extra damage next round, rage-withdrawn rest of fight. Become target for rest of fight.
 -Ability (Use once per a turn, Anytime):
