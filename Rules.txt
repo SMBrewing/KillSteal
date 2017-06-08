@@ -136,10 +136,18 @@ Disadvantage: High Chance of miss, High chance of hurting self
 --- Total (Target: 0 to 20, Avg: 4.83 to 5.83 | Self: 0 to 16, Avg: 3.50 to 4.50 | Other: 0 to 16, Avg: 0.5 to 1.00)
 -Special Action (Use once per a fight during your turn):
 -- Rage
---- 1,
+--- 1, damage self 1d6 (1 to 6, Avg: 3.5), become target for all monsters attacks until you die
+--- 2, damage self 1d6 (1 to 6, Avg: 3.5), become target of monster for next turn
+--- 3-5, become target of monster, enrage occurs next turn
+--- 6, Become enraged and take your rage action immediately
 -Ability (Use once per a turn, Anytime):
 -- Claim (Cannot be used when enraged)
---- Cannot Damage Yourself
+--- 1, Cannot take action this turn
+--- 2, Target takes no damage (from your attacks this turn)
+--- 3, Target takes half damage (from your attacks this turn)
+--- 4, Allies take half damage (from your attacks this turn)
+--- 5, Allies take no damage, (from your attacks this turn) you take half damage (from your attacks this turn)
+--- 6, Allies and you take no damage (from your attacks this turn)
 -Special Ability (Use once per a fight, Anytime):
 
 --Fighter--
