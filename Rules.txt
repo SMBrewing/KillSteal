@@ -141,7 +141,7 @@ Disadvantage: High Chance of miss, High chance of hurting self
 --- 3-5, become target of monster, enrage occurs next turn
 --- 6, Become enraged and take your rage action immediately
 -Ability (Use once per a turn, Anytime):
--- Claim (Cannot be used when enraged)
+-- Calm (Cannot be used when enraged)
 --- 1, Cannot take action this turn
 --- 2, Target takes no damage (from your attacks this turn)
 --- 3, Target takes half damage (from your attacks this turn)
