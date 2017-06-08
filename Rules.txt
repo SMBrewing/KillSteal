@@ -104,10 +104,12 @@ Disadvantage: Attacks are weak
 --Magic Missle
 --- 1, damage self 1d6 (1 to 6, Avg: 3.5)
 --- 2, damage random target 1d6 (1 to 6, Avg: 3.5)
-: Attack enemy, 3 or above for success (2/3) [Roll 1 attacks self, Roll 2 attacks random target], 1d6 damage (1 to 6, Avg: 3.5)
+--- 3-4, damage target 1d6 (1 to 6, Avg: 3.5)
+--- 5-6, damage target 1d6 + 2 (3 to 8, Ave: 5.5)
+--- Total (Target: 0 to 8, Avg: 3.10 to 3.29 | Self: 0 to 6, Avg: 0.68 to 0.88 | Other: 0 to 6, Avg: 0.10 to 0.20)
 -Special Action (Use once per a fight during your turn):
---Monster Mash: Choose an ally to recieve all attacks for the current round. That ally can then choose to attack you or the monster for rest of fight. If they kil you, they get one soul card from your collected souls.
--Turn to Iron: Use on anyone. They are immune to damage next round, but cannot attack.
+--Fear: Prevent the monster from attacking during their next turn.
+--Iron Soul: Use on anyone. They are immune to damage next round, but cannot attack.
 -Ability (Use once per a turn, Anytime):
 -Special Ability (Use once per a fight, Anytime):
 --Power of Suggestion: Choose the active player's action and target (Cannot use special actions)
@@ -116,11 +118,28 @@ Disadvantage: Attacks are weak
 Advantage: Attacks are strong
 Disadvantage: High Chance of miss, High chance of hurting self
 -Action (Use during your turn):
--- Hammer: Attack enemy, 3 or above for success (2/3) [4 or above if enraged (1/2)], 1d6 damage (1 to 6, Avg: 3.5) [2d6 damage if enraged (2 to 12, Avg: 7)] [1d6 damage - 2 if rage-withdrawn (-1 to 4, Avg: 1.5)]
--- Recover: Recover's your rage
+-- Hammer: 
+--- 1, damage self 1d6 + 4 (5 to 10, Avg: 7.5)
+--- 2, damage self 1d6 (1 to 6, Avg: 3.5)
+--- 3, damage random target 1d6 (1 to 6, Avg: 3.5)
+--- 4, damage target 1d6 (1 to 6, Avg: 3.5)
+--- 5, damage target 1d6 + 4 (5 to 10, Avg: 7.5)
+--- 6, damage target 1d6 + 8 (9 to 14, Avg: 11.5)
+--- Total (Target: 0 to 14, Avg: 3.84 to 4.04 | Self: 0 to 10, Avg: 1.93 to 2.13 | Other: 0 to 6, Avg: 0.10 to 0.20)
+-- Enraged Hammer:
+--- 1, damage self 2d6 + 4 (6 to 16, Avg: 11)
+--- 2, damage self 2d6 (2 to 12, Avg: 7)
+--- 3, damage random target 2d6 (2 to 12, Avg: 7)
+--- 4, damage random target 2d6 + 4 (6 to 16, Avg: 11)
+--- 5, damage target 2d6 + 4 (6 to 16, Avg: 11)
+--- 6, damage target 2d6 + 8 (10 to 20, Avg: 15)
+--- Total (Target: 0 to 20, Avg: 4.83 to 5.83 | Self: 0 to 16, Avg: 3.50 to 4.50 | Other: 0 to 16, Avg: 0.5 to 1.00)
 -Special Action (Use once per a fight during your turn):
--- Rage: Extra damage next round, rage-withdrawn rest of fight. Become target for rest of fight.
+-- Rage
+--- 1,
 -Ability (Use once per a turn, Anytime):
+-- Claim (Cannot be used when enraged)
+--- Cannot Damage Yourself
 -Special Ability (Use once per a fight, Anytime):
 
 --Fighter--
