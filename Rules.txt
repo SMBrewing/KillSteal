@@ -176,6 +176,9 @@ Disadvantage: Attacks are weak
 -Action (Use during your turn):
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
+--Lute (Change any roll)
+- Declare what you'd like the roll number to be
+-- 
 -Special Ability (Use once per a fight, Anytime):
 -- Depressing Song: Turn any action roll into a 1
 -- Motivational Speech: Turn any action roll into a 6
