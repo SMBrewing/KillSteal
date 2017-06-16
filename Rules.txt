@@ -46,15 +46,6 @@ Ideas:
 -Bosses should be hard, even for people working together.
 -Game should play like you are a highly disfunctional D&D team
 
--Dying-
--When you die, it depends on your current standing position (Ties mean that both levels will go to the player. For Example: A Two-Way tie for First will get the affects of both First and Second place, while the next player will get the affects of third place):
-First Place) Lose half of your collected souls (Victory Points) (rounded down), or whatever puts you in last place (least of the two). Comes back Half-Health.
-Second Place) Lose half of the cards in your hand. Comes back at Half-Health.
-Third Place) 
-Fourth Place) Trade Character and Cards with another player. Comes back at full health.
--When you die, you remain out for a full round, and come back at the start of your next turn. No actions can be performed on you until you come back to life.
--If full party is wiped out, then everyone loses.
-
 Card Ideas
 Two types of cards, player specific and global cards.
 -Stumble: Player has a granteed critial failure
@@ -65,7 +56,9 @@ Two types of cards, player specific and global cards.
 -Trade Hands (Switch cards with another player)
 -Trade Places (Switch seats with another player)
 -Kill Steal (Make yourself the current player in the turn order)
+-Soul Steal (Seems too powerful, but for a full round if the monster die, you get the soul)
 -Save some for the rest of us (Prevent a player who is ahead of you from attacking this round)
+-Up the Sleeve (+2 hand limit for rest of round, draw two cards)
 
 -Bosses-
 - All Bosses have default targets: Player with highest health, player with lowest health, player with most souls, player with least souls, random (roll die to determine), true random (could attack self as well), suicidal (only attacks self), etc.
@@ -109,6 +102,8 @@ Two types of cards, player specific and global cards.
 --- Player will now have hand limit of 3
 - Standard Hand Limit: 5
 -- When you draw a card, you must discard down back to 5.
+-If full party is wiped out, then everyone loses.
+
 
 --Cleric:--
 Advantage: Attacks will never damage self (unless self is target)
