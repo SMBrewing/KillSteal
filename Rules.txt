@@ -64,6 +64,8 @@ Two types of cards, player specific and global cards.
 -True Strike (Always attack target)
 -Trade Hands (Switch cards with another player)
 -Trade Places (Switch seats with another player)
+-Kill Steal (Make yourself the current player in the turn order)
+-Save some for the rest of us (Prevent a player who is ahead of you from attacking this round)
 
 -Bosses-
 - All Bosses have default targets: Player with highest health, player with lowest health, player with most souls, player with least souls, random (roll die to determine), true random (could attack self as well), suicidal (only attacks self), etc.
@@ -77,6 +79,8 @@ Two types of cards, player specific and global cards.
 --Final Attack (If attack would kill Boss Monster 1/2 chance to kill the player who killed him and avoid the attack)
 --Reflect (If attacked would have chance to reflect)
 --Dodge (If attacked would have chance to dodge)
+--Spells (Boss draw top card and uses it every round)
+--- The crapper drawn cards are more powerful for the boss (making them a more powerful enemy late in the game)
 - All Bosses have a list of attacks: The attack is determined by dice roll (1 to 6)
 
 -Players-
@@ -92,7 +96,17 @@ Two types of cards, player specific and global cards.
 --3 to 5: Tie with player, reroll and add score (1 and 2 still have same effects)
 --6: Always reroll and add score (1 and 2 still have same effects)
 -- Boss monster have static initative
-
+-Anybody who did not get a soul during the round, draws a card
+-Handicapping
+-- Last Place Token
+--- Once someone achieves a non-tied last place position, they will get the last place token. This includes in the middle of a fight.
+--- Player losses last place token when they are no longer in or tied for last place. If someone is now in a non-tied last place position, they recieve the token. Otherwise, the token discarded until someone acieves non-tied last place.
+--- When you posses a last place token, you will recieve a card every time you spend a card.
+-- First Place Token
+--- Player recieves/losses the token in the same fashion as last place player.
+--- Player will now have hand limit of 3
+- Standard Hand Limit: 5
+-- When you draw a card, you must discard down back to 5.
 
 --Cleric:--
 Advantage: Attacks will never damage self (unless self is target)
