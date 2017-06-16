@@ -61,15 +61,38 @@ Two types of cards, player specific and global cards.
 -Invunerbility: Can be used on any creature (includes boss, player, or self), that creature cannot be attacked nor can they attack for one full round
 -Throwing Dagger: Does 1 Damage to Boss (Play anytime)
 -And Stay Dead: Keep an ally dead for another full turn. Only works on players who currently have more souls than you.
+-True Strike (Always attack target)
+-Trade Hands (Switch cards with another player)
+-Trade Places (Switch seats with another player)
 
 -Bosses-
 - All Bosses have default targets: Player with highest health, player with lowest health, player with most souls, player with least souls, random (roll die to determine), true random (could attack self as well), suicidal (only attacks self), etc.
-- All Bosses have special abilities: Surprise Attack (Gets first round of attack), Double Attack (Attacks twice), Ally (Draw an additional Boss card), Illusionist (Fake monster), etc.
-- All Bosses have a list of attacks: The attack is determined by dice roll
+- All Bosses have special abilities:
+--Surprise Attack (Gets first round of attack)
+--Double Attack (Attacks twice)
+--Ally (Draw an additional Boss card)
+--Illusionist (Fake monster)
+--Necromancer (Resurrects Allys to fight against team, if they kill ally, then rejoin the battle and that ally die permanently)
+--Soulless (Boss Monster has no reward)
+--Final Attack (If attack would kill Boss Monster 1/2 chance to kill the player who killed him and avoid the attack)
+--Reflect (If attacked would have chance to reflect)
+--Dodge (If attacked would have chance to dodge)
+- All Bosses have a list of attacks: The attack is determined by dice roll (1 to 6)
 
 -Players-
 - Different Roles: Cleric, Wizard, Barbarian, Fighter, Rogue, Bard, etc.
 - Health: 20
+
+
+
+-Rule Ideas-
+-Rolls for initative
+--1: Last in Turn order and lose turn (Surprised)
+--2: Last in Turn order
+--3 to 5: Tie with player, reroll and add score (1 and 2 still have same effects)
+--6: Always reroll and add score (1 and 2 still have same effects)
+-- Boss monster have static initative
+
 
 --Cleric:--
 Advantage: Attacks will never damage self (unless self is target)
