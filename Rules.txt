@@ -82,6 +82,8 @@ Two types of cards, player specific and global cards.
 --Spells (Boss draw top card and uses it every round)
 --- The crapper drawn cards are more powerful for the boss (making them a more powerful enemy late in the game)
 - All Bosses have a list of attacks: The attack is determined by dice roll (1 to 6)
+- Bosses always succeed on attack
+- Bosses will roll for damage
 
 -Players-
 - Different Roles: Cleric, Wizard, Barbarian, Fighter, Rogue, Bard, etc.
