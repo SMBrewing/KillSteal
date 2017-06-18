@@ -177,8 +177,8 @@ Disadvantage: High Chance of miss, High chance of hurting self
 -Ability (Use once per a turn, Anytime):
 -- Calm (Cannot be used when enraged)
 --- 1, Cannot take action this turn
---- 2, Target takes no damage (from your attacks this turn)
---- 3, Target takes half damage (from your attacks this turn)
+--- 2, Enemies takes no damage (from your attacks this turn)
+--- 3, Enemies takes half damage (from your attacks this turn)
 --- 4, Allies take half damage (from your attacks this turn)
 --- 5, Allies take no damage, (from your attacks this turn) you take half damage (from your attacks this turn)
 --- 6, Allies and you take no damage (from your attacks this turn)
@@ -206,7 +206,7 @@ Disadvantage: Special attacks are costly
 
 --Bard--
 Advantage: Can control the fight
-Disadvantage: Attacks are weak
+Disadvantage: Attacks are weak (really weak)
 -Action (Use during your turn):
 -Special Action (Use once per a fight during your turn):
 -Ability (Use once per a turn, Anytime):
